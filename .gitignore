@@ -1,4 +1,4 @@
 .deps/
 artifacts/
-.prettierrc
+.prettierrc.json
 .gitignore
